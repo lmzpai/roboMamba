@@ -1,13 +1,7 @@
 <p align="center">
   <a href="#">
-    <img src="https://github.com/Apocaypse/roboMamba/assets/structure.png">
+    <img src="https://github.com/Apocaypse/roboMamba/blob/main/assets/structure.png?raw=true">
   </a>
-  <p align="center">
-    <a href="#">
-        <img src="https://github.com/Apocaypse/roboMamba/assets/logo.png" alt="Logo">
-    </a>
-    <h1>Robot-Mamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation</h1>
-  </p>
 </p>
 
 # Robot-Mamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation
@@ -21,6 +15,10 @@ The contribution of our work can be broadly divided into three parts：
 
 ## Demo Video
 
-https://github.com/Apocaypse/roboMamba/assets/720p.mp4
+<iframe height=540 width=960 src="https://github.com/Apocaypse/roboMamba/blob/main/assets/720p.mp4">
 
+## Usage
 
+<a href="#">
+    <img src="https://github.com/Apocaypse/roboMamba/blob/main/assets/usage.png?raw=true">
+</a>
