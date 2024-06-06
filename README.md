@@ -13,6 +13,11 @@ The contribution of our work can be broadly divided into three parts：
 - To equip RoboMamba with action pose prediction abilities, we explore an efficient fine-tuning strategy using a simple policy head. We find that once RoboMamba achieves sufficient reasoning capabilities, it can acquire pose prediction skills with minimal cost.
 - In our extensive experiments, RoboMamba excels in reasoning on general and robotic evaluation benchmarks, and showcases impressive pose prediction results in both simulation and real-world experiments. Our model has better performance, lower cost, and faster inference time.
 
+## Structure
+<a href="#">
+    <img src="https://github.com/Apocaypse/roboMamba/blob/main/assets/architecture.png?raw=true">
+</a>
+
 ## Demo Video
 https://github.com/Apocaypse/roboMamba/blob/main/assets/720p.mp4
 
