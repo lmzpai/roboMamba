@@ -3,8 +3,13 @@
 The repo of paper `RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation`
 ![robo-mamba-main](roboMamba.png)
 
-
 ![robo-mamba-main_00](robomamba_main.png)
+
+Our main contributions are :
+
++ We innovatively integrate a vision encoder with the efficient Mamba language model to construct our end-to-end RoboMamba, which possesses visual common sense and robot-related reasoning abilities.
++ To equip RoboMamba with action pose prediction abilities, we explore an efficient fine-tuning strategy using a simple policy head. We find that once RoboMamba achieves sufficient reasoning capabilities, it can acquire pose prediction skills with minimal cost.
++ In our extensive experiments, RoboMamba excels in reasoning on general and robotic evaluation benchmarks, and showcases impressive pose prediction results in both simulation and real-world experiments
 
 **Table 1: Comparison of general reasoning abilities with previous MLLMs on several benchmarks.**
 
