@@ -1,6 +1,8 @@
 # roboMamba
 
 The repo of paper `RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation`
+![robo-mamba-main](roboMamba.png)
+
 
 ![robo-mamba-main_00](robomamba_main.png)
 
