@@ -1,9 +1,9 @@
 # roboMamba
 
 The repo of paper `RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation`
-![robo-mamba-main](roboMamba.png)
+![robo-mamba-main](img/roboMamba.png)
 
-![robo-mamba-main_00](robomamba_main.png)
+![robo-mamba-main_00](img/robomamba_main.png)
 
 Our main contributions are :
 
@@ -32,8 +32,13 @@ Our main contributions are :
 
 **Table 2: Comparison of the success rates between RoboMamba and baselines across various training (seen) and test (unseen) categories.**
 
-![table2](table2.png)
+![table2](img/table2.png)
 
+**installation**
 
+pip install -r requirements.txt
 
-Code is coming soon !
+**How to use**
+
+test: `bash script/test.sh`
+
