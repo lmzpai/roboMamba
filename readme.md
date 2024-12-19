@@ -42,3 +42,6 @@ pip install -r requirements.txt
 
 test: `bash script/test.sh`
 
+**checkpoints**
+
+[CLIP224+Mamba2.8b](https://pan.baidu.com/s/1jgEzriRGzSCXIVn_N7gZfw?pwd=robo)
