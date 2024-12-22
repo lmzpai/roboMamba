@@ -30,7 +30,7 @@ test: `bash script/test.sh`
 
 **Checkpoint**
 
-The checkpoints are shown in the test branch.. Thank you very much for your interest in our work. If you need the training code, please send us an email and specify your research requirements.
+The checkpoints are shown in the test branch. Thank you very much for your interest in our work. If you need the training code, please send us an email and specify your research requirements.
 
 
 ## 📚 BibTeX 
